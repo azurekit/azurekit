@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  
+## Rodrigo Levy Carijó  
 
-<!--
-**azurekit/azurekit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor’s Degree in Computer Engineering - USC  
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/rodrigo-levy-2466b3267/)  • [Instagram](https://www.instagram.com/levy.404/) • [Email](mailto:rodrigolevycarijo101@gmail.com) • [Spotify](https://open.spotify.com/user/ku77pt0wydt2rp9vkr2q6y7gc?si=d99a748f71934c06)  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Languages:
+  Python • C++ • HTML5 • CSS3  
+
+### Studying:
+SQL • JavaScript • Git • AWS • Kivy  
